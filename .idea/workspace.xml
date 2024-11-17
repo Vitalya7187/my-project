@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19b751c5-06ad-4626-a3de-47cb2dddc9ca" name="Changes" comment="Modified fourth file in the feature branch">
-      <change afterPath="$PROJECT_DIR$/first-subfolder/sixth-file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-subfolder/second-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/first-subfolder/second-file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-subfolder/third-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/first-subfolder/third-file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Modified fourth file in the feature branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified fourth file in the feature branch" />
+    <MESSAGE value="Changes made in the main branch 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes made in the main branch 2" />
   </component>
 </project>
